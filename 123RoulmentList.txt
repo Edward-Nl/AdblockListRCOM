@@ -3,5 +3,4 @@
 ! Last modified: 26 Sep 2022 08:20 UTC
 ! Expires: 10 days
 ! Version: 1
-@@https://123roulement.com
-@@https://enl-fo-v2.123roulement.in/
+@@domain=123Roulement.com|123Roulement.in
