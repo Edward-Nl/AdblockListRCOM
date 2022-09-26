@@ -3,4 +3,6 @@
 ! Last modified: 26 Sep 2022 08:20 UTC
 ! Expires: 10 days
 ! Version: 1
-@@domain=123roulement.com|*.123roulement.in|enl-fo-v2.123roulement.in
+@@||$third-party,script,stylesheet,object,xmlhttprequest,subdocument,websocket,webrtc,elemhide,generichide,genericblock,ping,image,media,other,domain=123roulement.com|enl-fo-v2.123roulement.in
+@@||$elemhide,domain=123roulement.com|enl-fo-v2.123roulement.in
+||astatic.ccmbg.com/fc/fonts/whitelist/wl.woff2
