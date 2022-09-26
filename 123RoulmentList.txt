@@ -1,11 +1,3 @@
-[Adblock Plus 2.0]
-! Version: 202107290920
-! Title: Filtres 123Roulement
-! Last modified: 26 Sep 2022 07:10 UTC
-! Hash: h5LIUNgB0NaZCUOLdTdjKA==
-! Expires: 20 days (update frequency)
-! Homepage: https://edward-nl.github.io/AdblockListRCOM/123RoulmentList.txt
-!
-@@||$third-party,script,stylesheet,object,xmlhttprequest,subdocument,websocket,webrtc,elemhide,generichide,genericblock,ping,image,media,other,domain=123roulement.com|enl-fo-v2.123roulement.in/|123roulement.in
-@@||$elemhide,domain=123roulement.com|enl-fo-v2.123roulement.in/|123roulement.in
-||astatic.ccmbg.com/fc/fonts/whitelist/wl.woff2
+@@https://123roulement.com
+@@https://enl-fo-v2.123roulement.in/
+@@123roulement.in
