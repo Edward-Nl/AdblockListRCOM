@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
 ! Version: 202107290920
-! Title: Mes filtres personnalisÃ©s
-! Last modified: 29 Jul 2021 09:20 UTC
+! Title: Filtres 123Roulement
+! Last modified: 26 Sep 2022 07:10 UTC
 ! Hash: h5LIUNgB0NaZCUOLdTdjKA==
-! Expires: 2 days (update frequency)
-! Homepage: https://www.123roulement.com/
+! Expires: 20 days (update frequency)
+! Homepage: https://edward-nl.github.io/AdblockListRCOM/123RoulmentList.txt
 !
 @@||$third-party,script,stylesheet,object,xmlhttprequest,subdocument,websocket,webrtc,elemhide,generichide,genericblock,ping,image,media,other,domain=123roulement.com|enl-fo-v2.123roulement.in/|123roulement.in
 @@||$elemhide,domain=123roulement.com|enl-fo-v2.123roulement.in/|123roulement.in
