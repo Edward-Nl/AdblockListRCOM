@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: ListAdBlock123Roulement
+! Last modified: 26 Sep 2022 08:20 UTC
+! Expires: 10 days
+! Version: 1
 @@https://123roulement.com
 @@https://enl-fo-v2.123roulement.in/
 @@123roulement.in
